@@ -1,0 +1,31 @@
+body{
+  background-color: #BB8FCE;
+}
+img{
+  width:10%;
+  height: 15%;
+  border: 2px solid red;
+}
+.Parent{
+  width:98.5%;
+  height: 90%;
+  border: 3px solid black;
+  display: flex;
+  flex-wrap: wrap;
+margin:2%;
+  padding: 0%;
+}
+.left
+ {
+  width:40%;
+  border: 3px solid red;
+  margin: 0.5%;
+  /* padding: 1%; */
+
+}
+.right
+{
+  width: 30%;
+  border:3px solid black;
+  margin: 2%;
+}
